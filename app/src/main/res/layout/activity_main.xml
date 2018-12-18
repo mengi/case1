@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginStart="10dp"
+    android:layout_marginEnd="10dp"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:id="@+id/tvProductA"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Case 1"
+        android:textColor="@color/colorPrimary"
+        android:textSize="17sp" />
+
+
+    <TextView
+        android:id="@+id/tvProductB"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Case 1"
+        android:textColor="@color/colorPrimary"
+        android:textSize="17sp" />
+
+
+    <TextView
+        android:id="@+id/tvProductC"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Case 1"
+        android:textColor="@color/colorPrimary"
+        android:textSize="17sp" />
+
+
+    <TextView
+        android:id="@+id/tvMaxProduct"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Case 1"
+        android:textColor="@color/colorPrimary"
+        android:textSize="17sp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:layout_marginTop="10dp"
+        android:background="@color/colorPrimary" />
+
+    <TextView
+        android:id="@+id/tvSide1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Case 2"
+        android:textColor="@color/colorPrimary"
+        android:textSize="17sp" />
+
+    <TextView
+        android:id="@+id/tvSide2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Case 2"
+        android:textColor="@color/colorPrimary"
+        android:textSize="17sp" />
+
+    <TextView
+        android:id="@+id/tvSide3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Case 2"
+        android:textColor="@color/colorPrimary"
+        android:textSize="17sp" />
+
+</LinearLayout>
